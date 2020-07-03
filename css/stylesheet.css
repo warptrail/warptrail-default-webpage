@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    color: #00C044;
+}
+
+body {
+    background-color: #1D1F21;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    margin: 0 auto;
+    width: 65%;
+}
+
+h1 {
+    margin: 0;
+
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.center > * {
+    margin-bottom: 20px;
+}
+
+
+.container img {
+    width: 40%;
+}
+
