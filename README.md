@@ -1,1 +1,1 @@
-This is the default warp trail web page. 
+This is the default warp trail web page. This is the readme.
